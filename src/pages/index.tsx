@@ -32,16 +32,12 @@ const HomePage: React.FC = () => {
             answer: "As a DeGym member, you gain access to exclusive gym activities, earn rewards through staking, and benefit from the security and transparency of blockchain technology."
         },
         {
-            question: "What are the benefits of using DeGym?",
-            answer: "DeGym offers a seamless and secure way to access gym facilities, track workouts, and earn rewards, all powered by blockchain technology."
-        },
-        {
             question: "Is DeGym available globally?",
             answer: "Yes, DeGym is available to users worldwide. As long as you have access to the internet and a compatible device, you can join and participate in DeGym."
         },
         {
             question: "How can I get in touch with DeGym support?",
-            answer: "You can contact DeGym support through our website's contact form or by emailing us at support@degym.io."
+            answer: "You can contact DeGym support through our discord's support channel."
         },
     ];
 

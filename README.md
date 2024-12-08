@@ -1,6 +1,6 @@
- DeGym DApp
+ DeGym Landing Page
 
-DeGym is a decentralized application (DApp) for managing gym memberships and rewards using blockchain technology. This project uses Next.js, TypeScript, and Web3.js to interact with smart contracts on the Ethereum blockchain.
+This project uses Next.js, TypeScript, and Web3.js to interact with smart contracts on the Ethereum blockchain.
 
 ## Table of Contents
 
