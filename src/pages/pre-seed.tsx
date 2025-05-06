@@ -17,10 +17,10 @@ import HeroWrapper from '@/components/common/HeroWrapper';
 const PreSeedPage: React.FC = () => {
     const crowdfundData = {
         type: "Pre-Seed",
-        startDate: '2024-09-20T12:00:00Z',
+        startDate: '2025-06-20T12:00:00Z',
         exchangeRate: 1, // Example exchange rate (1 DGYM = 1 TARA)
         tvlDiscount: 15, // Example TVL discount percentage
-        endDate: '2024-10-10T00:00:00Z',
+        endDate: '2025-12-10T00:00:00Z',
         totalSupply: 30_000_000,
         sold: 0
     };
