@@ -16,6 +16,8 @@ const partnersList: Partner[] = [
     { name: 'One Bot', logo: '/img/partners/onebot.png', link: 'https://t.me/taraxaOneBot' },
     { name: 'Tokeniza', logo: '/img/partners/tokeniza.png', link: 'https://tokeniza.com.br' },
     { name: 'Nassim', logo: '/img/partners/nassim.png', link: 'https://nassim.com.br' },
+    { name: 'NearX', logo: '/img/partners/nearX.webp', link: 'https://nearx.com.br' },
+
 ];
 
 const PartnersCarousel: React.FC = () => {
